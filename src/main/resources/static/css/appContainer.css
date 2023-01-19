@@ -1,0 +1,29 @@
+.app-container{
+    padding-top: 2%;
+    width: 80%;
+    margin: 4% auto;
+    max-width: 80%;
+    min-height: 600px;
+    min-width: 600px;
+}
+
+
+.text-text{
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+}
+
+.font-text{
+    font-size: 120%;
+    min-height: 1.3cm;
+}
+
+.preferencess{
+    display: inline-block;
+    color: blue;
+}
+
+
+
+

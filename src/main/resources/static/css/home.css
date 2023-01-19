@@ -1,0 +1,24 @@
+#categoriesHome{
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+    
+    
+}
+
+.categoriesLists{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+.fs4{
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 300px;
+}
+.card-bodys{
+    height:505px ;
+}
+

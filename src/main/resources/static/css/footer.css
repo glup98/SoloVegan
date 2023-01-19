@@ -1,0 +1,43 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+}
+
+footer{
+    margin-top: 5%;
+    background-color: black;
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    display: inline-block;
+}
+
+footer a {
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 1%;
+}
+
+footer .icons{
+    display: inline-block;
+    margin: 20px;
+}
+
+footer .icons i{
+    font-size: 20px;
+    color: white;
+}
+
+#admin{
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 1%;
+}

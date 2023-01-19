@@ -1,0 +1,85 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+    /*background-color: #138A19;*/
+}
+
+.navbar{
+    display: inline-block;
+    padding-left: 10%;
+    padding-right: 15%;
+    background-color: rgb(202, 244, 176); 
+    position: fixed;
+
+}
+.navbar-brand{
+    color: #38b31d;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+
+img{
+    width: 50px;
+}
+
+.navbar-close{
+    /* margin-top: -18px; */
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+}
+
+.offcanvas{
+    font-size: 20px;
+background: #06a104;
+}
+
+.offcanvas-title{
+    display: inline-flex;
+    color: white;
+    font-size: 35px;
+
+}
+
+.offcanvas-body{
+    background: white;
+}
+
+.dropdown-menu{
+    /*font-size: 20px;*/
+background: linear-gradient(180deg, rgb(236, 249, 233) 30%, rgb(239, 244, 239) 100%);
+}
+
+#botones{
+    margin-left: 30px;
+}
+
+.img-product{
+    width: 200px;
+}
+
+.navbar-text{
+    font-weight: 80px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+}
+
+.navbar-text a{
+    color: rgb(65, 149, 65);
+    font-size: 21px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.navbar-textt{
+    color: black;
+    font-size: 30px;
+}

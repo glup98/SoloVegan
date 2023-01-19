@@ -1,0 +1,43 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+}
+
+#img-container
+{
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    margin-bottom: 13%;
+    
+}
+
+.img-product{
+    width: 100%;
+    height: 100%;
+}
+
+.normalprice{
+    color: #7D7D7D;
+    font-size: 15px;
+    padding-top: 5%;
+}
+
+.offerprice{
+    color: #7D7D7D;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.card,
+.card-body {
+    min-height: 250px; /* altura mínima de 250px */
+}
+
+.card,
+.card-body {
+    min-height: 100%; /* ocupará el 100% del alto del elemento padre */
+}
+

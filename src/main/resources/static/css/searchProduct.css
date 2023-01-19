@@ -1,0 +1,26 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+}
+
+.searchResults {
+    /*height: 300px;*/
+    /*display: inline-block;*/
+    margin-top: -60px;
+}
+
+.tittleSearch{
+    width: 500px;
+/*text-align: center;*/
+display:inline-block;
+}
+
+#filtrar{
+height: auto;
+width: auto;
+}
+.filtrar{
+    margin-top: 65px;
+}
